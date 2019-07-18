@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="5"
+            tests="4">
+
+  <testsuite name="FourStayTest"
+    errors="1" failures="5" hostname="" id="" package="FourStayTest" skipped="0"
+    tests="4" time="51.38" timestamp="">
+  
+    <testcase name="login negative" classname="FourStayTest" time="25.67" assertions="20">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <failure message="    at Page.login (/Users/hakanberberoglu/Documents/DevMountain/Projects/Solo4Stay/pageObject/FourStaySolo.js:5:21)">    at /Users/hakanberberoglu/Documents/DevMountain/Projects/Solo4Stay/Tests/FourStayTest.js:16:18
+    at Array.forEach (&lt;anonymous&gt;)
+    at Object.login negative (/Users/hakanberberoglu/Documents/DevMountain/Projects/Solo4Stay/Tests/FourStayTest.js:13:21)</failure>
+    </testcase>
+  
+    <testcase name="login" classname="FourStayTest" time="4.910" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="citySearch" classname="FourStayTest" time="10.84" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="homeSearch" classname="FourStayTest" time="9.971" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
